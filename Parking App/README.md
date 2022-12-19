@@ -1,1 +1,0 @@
-[Parking enhancer]{https://gallery.appinventor.mit.edu/?galleryid=36566eb6-0e5c-4a84-a32b-298aa348f697}
